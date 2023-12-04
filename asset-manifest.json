@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/productlist.git/static/css/main.b1d7ec7b.css",
+    "main.js": "/productlist.git/static/js/main.2edfab71.js",
+    "static/js/787.54d3ab17.chunk.js": "/productlist.git/static/js/787.54d3ab17.chunk.js",
+    "static/media/motrola.jpg": "/productlist.git/static/media/motrola.1c37bf8def6f7134f043.jpg",
+    "static/media/lenova.jpg": "/productlist.git/static/media/lenova.9e7685f8de9ea8a07dbc.jpg",
+    "static/media/micromax.jpg": "/productlist.git/static/media/micromax.91a66116e65928ca56c5.jpg",
+    "static/media/iphone.jpg": "/productlist.git/static/media/iphone.c171ce07b20a67cd6717.jpg",
+    "static/media/samsung.jpg": "/productlist.git/static/media/samsung.15403fb3a422d189bd31.jpg",
+    "index.html": "/productlist.git/index.html",
+    "main.b1d7ec7b.css.map": "/productlist.git/static/css/main.b1d7ec7b.css.map",
+    "main.2edfab71.js.map": "/productlist.git/static/js/main.2edfab71.js.map",
+    "787.54d3ab17.chunk.js.map": "/productlist.git/static/js/787.54d3ab17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.2edfab71.js"
+  ]
+}
